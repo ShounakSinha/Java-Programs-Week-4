@@ -26,9 +26,12 @@ class Human implemets Tasks
   }
 class Main
   {
-    Human manush = new Human();
-    mansuh.sleep();
-    manush.eat();
+    public static void main(String args[])
+    {
+      Human manush = new Human();
+      mansuh.sleep();
+      manush.eat();
+    }
   }
     
 
