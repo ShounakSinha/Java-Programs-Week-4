@@ -24,7 +24,7 @@ class Human implemets Tasks
         System.out.println("Porchhi");
       }
   }
-class Maineta
+class Main
   {
     Human manush = new Human();
     mansuh.sleep();
